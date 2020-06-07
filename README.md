@@ -1,4 +1,10 @@
-Small test app for emphasoft showing users
+Small test app for emphasoft that shows users
+
+### live: https://users-for-emphasoft.web.app/
+
+### to log in:
+* username: test_super
+* password: Nf<U4f<rDbtDxAPn
 
 ### used:
 * React
@@ -7,6 +13,3 @@ Small test app for emphasoft showing users
 ### start app:
 npm start
 
-### to log in:
-username: test_super
-password: Nf<U4f<rDbtDxAPn
